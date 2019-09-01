@@ -1,0 +1,15 @@
+{
+    "giocatori": [
+        "gio",
+        "ella",
+        "pit"
+    ],
+    "figure": {
+        "lupo": 1,
+        "contadino": 0,
+        "veggente": 1,
+        "donna": 1,
+        "medium": 0,
+        "licantropo": 0
+    }
+}
